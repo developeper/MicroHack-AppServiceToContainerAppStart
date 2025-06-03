@@ -5,9 +5,9 @@ name: Build and Deploy to Container App
 
 on:
   workflow_dispatch:
-  
+
 permissions:
-id-token: write
+  id-token: write
 
 jobs:
 
